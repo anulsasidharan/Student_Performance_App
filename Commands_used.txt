@@ -1,0 +1,15 @@
+venv creation
+conda create -p student python==3.8 -y
+
+# To activate this environment, use
+#
+#     $ conda activate C:\Users\Euron\Desktop\DS_ML_DL_NLP_Bootcamp\00_Projects\01_ML\2_48_Student_Performance\student
+	  OR
+	  $ conda activate student/
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+C:\Users\Euron\Desktop\DS_ML_DL_NLP_Bootcamp\00_Projects\01_ML\2_48_Student_Performance>conda activate student/
