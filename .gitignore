@@ -130,6 +130,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.student
 env/
 venv/
 student/
@@ -173,3 +174,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Other files and images
+
+Commands_used.txt
+StudentPerformanceApp.png
