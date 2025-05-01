@@ -11,6 +11,10 @@ from sklearn.metrics import r2_score
 from src.logger import logging
 from src.exception import CustomException
 
+import warnings
+warnings.filterwarnings('ignore')
+
+
 def save_object(file_path, obj):
     try:
         dir_path = os.path.dirname(file_path)

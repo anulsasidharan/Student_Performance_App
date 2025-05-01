@@ -19,6 +19,9 @@ from src.logger import logging
 
 from src.utils import save_object, evaluate_models
 
+import warnings
+warnings.filterwarnings('ignore')
+
 @dataclass
 class ModelTrainerConfig:
     trained_model_file_path = os.path.join('artifacts', "model.pkl")
