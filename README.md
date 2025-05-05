@@ -3,7 +3,9 @@
 ## 🔍 Brief Description
 This project demonstrates the end-to-end lifecycle of a machine learning application — from data preprocessing and model training to deployment via a Flask-based web interface. The app allows users to input student details through a simple UI and returns a performance prediction (likely a score or category).
 
+<p align="center">
 <img src="StudentPerformanceApp.jpg" alt="alt text" width="35%" height="auto"/>
+</p>
 
 ## 🚀 Project Overview
 
